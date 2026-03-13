@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @abbyfleek
-- 👀 I’m interested in everything really
-- 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on still working on it...
-- 📫 How to reach me ronoabigael9@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: you cannot sneeze with your eyes open otherwise...
+- 👋 Hi, I’m ABIGAEL.C.RONO
+- 👀 I’m a CyberSecurity Analyst
+- 🌱 I’m currently working on Cloud and Network Security.
+- 📫 How to reach me ronoabigael9@gmail.com.
 
 <!---
 abbyfleek/abbyfleek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
